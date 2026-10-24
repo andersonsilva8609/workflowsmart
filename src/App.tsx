@@ -413,14 +413,14 @@ function App() {
                 icon: Shield,
                 title: 'Zero Erros',
                 value: '99.9%',
-                description: 'Automação não dorme, não distrai e não erra.',
+                description: 'Automação não dorme, não distrai e não costuma erra.',
                 color: 'blue',
               },
               {
                 icon: Zap,
                 title: 'ROI Rápido',
                 value: '3x',
-                description: 'Retorno do investimento em até 3 meses.',
+                description: 'Retorno do investimento em até 6 meses.',
                 color: 'green',
               },
             ].map((benefit, index) => (
@@ -471,7 +471,7 @@ function App() {
             </div>
             
             <p className="mt-6 text-sm text-gray-500">
-              Consultoria gratuita • Orçamento em 24h • Sem compromisso
+              Consultoria gratuita • Orçamento em 48h • Sem compromisso
             </p>
           </div>
         </div>
@@ -490,7 +490,7 @@ function App() {
                 Bora <span className="text-wfs-orange">automatizar</span>?
               </h2>
               <p className="text-xl text-gray-400 mb-10">
-                Conta pra gente o que você precisa. Em 24h te mandamos uma proposta irrecusável!
+                Conta pra gente o que você precisa. Em 48h te mandamos uma proposta irrecusável!
               </p>
               
               <div className="space-y-6">
@@ -520,7 +520,7 @@ function App() {
                   </div>
                   <div>
                     <div className="text-sm text-gray-500">Localização</div>
-                    <div className="text-lg font-semibold">São Paulo, SP - Brasil</div>
+                    <div className="text-lg font-semibold">Sumaré-SP / Brasil</div>
                   </div>
                 </div>
               </div>
